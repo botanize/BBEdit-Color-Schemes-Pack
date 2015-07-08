@@ -24,3 +24,4 @@ underwater.bbcolors						Michael Le Du https://github.com/mledu
 Zen and Tea.bbcolors 					Bill Keller
 ir_black.bbcolors 						https://gist.github.com/959651
 wolfenstein.bbcolors 					Bill Keller
+Tomorrow								https://github.com/chriskempson/tomorrow-theme
